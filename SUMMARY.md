@@ -1,11 +1,11 @@
 # Table of contents
 
-* [home](README.md)
+* [Home](README.md)
 
 ## Learn
 
-* [journals + additional reading notes](learn/journals-+-additional-reading-notes/README.md)
-  * [boettcher - hematopoiesis](learn/journals-+-additional-reading-notes/boettcher-hematopoiesis.md)
-* [python 3](learn/python-3/README.md)
-  * [rosalind](learn/python-3/rosalind.md)
+* [Journals + additional reading notes](learn/journals-+-additional-reading-notes/README.md)
+  * [Boettcher - Hematopoiesis](learn/journals-+-additional-reading-notes/boettcher-hematopoiesis.md)
+* [Python 3](learn/python-3/README.md)
+  * [Rosalind](learn/python-3/rosalind.md)
 

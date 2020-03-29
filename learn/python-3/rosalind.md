@@ -1,2 +1,2 @@
-# rosalind
+# Rosalind
 

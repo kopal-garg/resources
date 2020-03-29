@@ -4,9 +4,9 @@ description: >-
   hematopoietic stem cell transplantation
 ---
 
-# boettcher - hematopoiesis
+# Boettcher - Hematopoiesis
 
-{% file src="../../.gitbook/assets/boettcher-hematopoeisis-paper-for-kopal.pdf" %}
+{% file src="../../.gitbook/assets/boettcher-hematopoeisis-paper-for-kopal.pdf" caption="Download " %}
 
 
 
