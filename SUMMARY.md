@@ -1,10 +1,7 @@
 # Table of contents
 
-* [Home](README.md)
-
-## Learn
-
-* [Journals + additional reading notes](learn/journals-+-additional-reading-notes.md)
-* [Python 3](learn/python-3/README.md)
-  * [Rosalind](learn/python-3/rosalind.md)
+* [Initial page](README.md)
+* [ANKRD26](ankrd26.md)
+* [LIN28B/IGF2BP3](lin28b-igf2bp3.md)
+* [ChIP-seq](chip-seq.md)
 
