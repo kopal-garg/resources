@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Basics](README.md)
+* [UGER Basics](README.md)
 
