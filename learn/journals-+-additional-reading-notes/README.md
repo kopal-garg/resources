@@ -1,2 +1,0 @@
-# Journals + additional reading notes
-
